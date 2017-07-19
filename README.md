@@ -9,6 +9,8 @@ user experience.
 #Solution
 
 To hide the text links and swap them out with a more appropriate navigation.
-I manipulate the DOM using jQuery to add <select><option>..</option></select>.
+
+I manipulate the DOM using jQuery to add select and option tags .
+
 added jQuery to interact with smaller devices.
 
